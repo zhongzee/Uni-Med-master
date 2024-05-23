@@ -18,9 +18,9 @@ Please refer to https://github.com/chaoyi-wu/PMC-LLaMA
 
 ### 2. Prepare IAI-MED-Dataset 
 #### 2.1 Generate Visual Explanation
-1  Please refer to ./Uni/prompt/visual_explanation_prompt.py
+1  Please refer to ./src/prompt/visual_explanation_prompt.py
 #### 2.2 Label the real intent
-2  Please refer to ./Uni/prompt/core_explain_and_instruct_mark.py
+2  Please refer to ./src/prompt/core_explain_and_instruct_mark.py
 
 ### 3. Train
 
